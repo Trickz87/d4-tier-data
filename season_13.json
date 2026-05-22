@@ -519,6 +519,728 @@
         "Willpower",
         "Cooldown Reduction"
       ]
+    },
+    "Rend": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Bleeding Damage",
+        "Damage Over Time",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength",
+        "Maximum Life"
+      ]
+    },
+    "Bash": {
+      "mythic_items": [
+        "Ring of Starless Skies"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength",
+        "Attack Speed",
+        "Maximum Life"
+      ]
+    },
+    "Charge": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Strength",
+        "Damage Reduction",
+        "Maximum Life"
+      ]
+    },
+    "Upheaval": {
+      "mythic_items": [
+        "The Grandfather"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength",
+        "Maximum Life"
+      ]
+    },
+    "Leap Quake": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Overpower Damage",
+        "Earth Skill Damage",
+        "Cooldown Reduction",
+        "Strength",
+        "Maximum Life"
+      ]
+    },
+    "Double Swing": {
+      "mythic_items": [
+        "Ring of Starless Skies"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength",
+        "Attack Speed"
+      ]
+    },
+    "Frenzy": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Attack Speed",
+        "Critical Strike Damage",
+        "Strength",
+        "Vulnerable Damage"
+      ]
+    },
+    "Kick": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Damage to Stunned Enemies",
+        "Strength",
+        "Maximum Life"
+      ]
+    },
+    "Lacerate Werewolf": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Werewolf Damage",
+        "Willpower",
+        "Cooldown Reduction"
+      ]
+    },
+    "Stormclaw Werewolf": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Werewolf Damage",
+        "Willpower",
+        "Attack Speed"
+      ]
+    },
+    "Pulverize Werebear": {
+      "mythic_items": [
+        "The Grandfather",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Overpower Damage",
+        "Critical Strike Damage",
+        "Werebear Damage",
+        "Willpower",
+        "Maximum Life"
+      ]
+    },
+    "Lightning Storm": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Willpower",
+        "Skill Ranks",
+        "Damage to Vulnerable"
+      ]
+    },
+    "Tornado": {
+      "mythic_items": [
+        "Tal Rasha's Iridescent Loop"
+      ],
+      "key_affixes": [
+        "Storm Skill Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Willpower"
+      ]
+    },
+    "Cataclysm": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Storm Skill Damage",
+        "Cooldown Reduction",
+        "Critical Strike Damage",
+        "Willpower"
+      ]
+    },
+    "Boulder": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Earth Skill Damage",
+        "Overpower Damage",
+        "Critical Strike Damage",
+        "Willpower"
+      ]
+    },
+    "Hurricane": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Storm Skill Damage",
+        "Cooldown Reduction",
+        "Willpower",
+        "Damage Over Time"
+      ]
+    },
+    "Trampleslide": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Werebear Damage",
+        "Overpower Damage",
+        "Willpower",
+        "Cooldown Reduction"
+      ]
+    },
+    "Minion Mendeln": {
+      "mythic_items": [
+        "Ring of Starless Skies",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Minion Damage",
+        "Critical Strike Damage",
+        "Maximum Life",
+        "Cooldown Reduction",
+        "Intelligence"
+      ]
+    },
+    "Bone Spear": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Intelligence",
+        "Bone Skill Damage"
+      ]
+    },
+    "Blood Surge": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Overpower Damage",
+        "Maximum Life",
+        "Damage Reduction",
+        "Blood Orb Damage",
+        "Intelligence"
+      ]
+    },
+    "Shadow Blight": {
+      "mythic_items": [
+        "Shroud of False Death"
+      ],
+      "key_affixes": [
+        "Shadow Damage",
+        "Damage Over Time",
+        "Critical Strike Damage",
+        "Intelligence"
+      ]
+    },
+    "Corpse Tendrils": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Damage to Vulnerable",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Intelligence"
+      ]
+    },
+    "Bone Spirit": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Lucky Hit Chance",
+        "Bone Skill Damage",
+        "Intelligence"
+      ]
+    },
+    "Sever Shadow": {
+      "mythic_items": [
+        "Shroud of False Death"
+      ],
+      "key_affixes": [
+        "Shadow Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Intelligence"
+      ]
+    },
+    "Decompose": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Damage Over Time",
+        "Channeled Skill Damage",
+        "Intelligence",
+        "Maximum Life"
+      ]
+    },
+    "Dance of Knives": {
+      "mythic_items": [
+        "Harlequin Crest",
+        "Tal Rasha's Iridescent Loop"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity",
+        "Attack Speed"
+      ]
+    },
+    "Heartseeker": {
+      "mythic_items": [
+        "Andariel's Visage"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity"
+      ]
+    },
+    "Twisting Blades": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Cooldown Reduction",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity",
+        "Lucky Hit"
+      ]
+    },
+    "Death Trap": {
+      "mythic_items": [
+        "Ring of Starless Skies"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Vulnerable Damage",
+        "Dexterity"
+      ]
+    },
+    "Barrage": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity",
+        "Attack Speed"
+      ]
+    },
+    "Penetrating Shot": {
+      "mythic_items": [
+        "Andariel's Visage"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity",
+        "Attack Speed"
+      ]
+    },
+    "Flurry": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Damage to Vulnerable",
+        "Dexterity",
+        "Attack Speed"
+      ]
+    },
+    "Caltrops Trapper": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Trap Damage",
+        "Cooldown Reduction",
+        "Dexterity",
+        "Damage to Slowed Enemies"
+      ]
+    },
+    "Forceful Arrow": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Dexterity",
+        "Attack Speed",
+        "Lucky Hit Chance"
+      ]
+    },
+    "Blizzard": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Cold Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Intelligence",
+        "Cooldown Reduction"
+      ]
+    },
+    "Hydra": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Conjuration Skill Damage",
+        "Fire Damage",
+        "Critical Strike Damage",
+        "Intelligence"
+      ]
+    },
+    "Charged Bolts": {
+      "mythic_items": [
+        "Tal Rasha's Iridescent Loop"
+      ],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Intelligence",
+        "Lucky Hit"
+      ]
+    },
+    "Frozen Orb": {
+      "mythic_items": [
+        "Tal Rasha's Iridescent Loop"
+      ],
+      "key_affixes": [
+        "Cold Damage",
+        "Critical Strike Damage",
+        "Damage to Frozen Enemies",
+        "Intelligence"
+      ]
+    },
+    "Lightning Spear": {
+      "mythic_items": [
+        "Tal Rasha's Iridescent Loop",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Intelligence"
+      ]
+    },
+    "Fireball": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Fire Damage",
+        "Critical Strike Damage",
+        "Damage to Burning Enemies",
+        "Intelligence"
+      ]
+    },
+    "Meteor": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Fire Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Intelligence"
+      ]
+    },
+    "Arc Lash": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Attack Speed",
+        "Intelligence"
+      ]
+    },
+    "Ice Shards": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Cold Damage",
+        "Critical Strike Damage",
+        "Damage to Frozen Enemies",
+        "Intelligence"
+      ]
+    },
+    "Eagle Evade": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Storm Skill Damage",
+        "Critical Strike Damage",
+        "Attack Speed",
+        "Skill Ranks",
+        "Cooldown Reduction"
+      ]
+    },
+    "Stinger Centipede": {
+      "mythic_items": [
+        "Andariel's Visage"
+      ],
+      "key_affixes": [
+        "Poison Damage",
+        "Damage Over Time",
+        "Critical Strike Damage",
+        "Skill Ranks"
+      ]
+    },
+    "Touch of Death": {
+      "mythic_items": [
+        "Shroud of False Death"
+      ],
+      "key_affixes": [
+        "Poison Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Damage Over Time"
+      ]
+    },
+    "Crushing Hand": {
+      "mythic_items": [
+        "The Grandfather"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Skill Ranks",
+        "Overpower Damage",
+        "Cooldown Reduction"
+      ]
+    },
+    "Razor Wings": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Attack Speed",
+        "Vulnerable Damage",
+        "Skill Ranks"
+      ]
+    },
+    "Thrash Jaguar": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Attack Speed",
+        "Skill Ranks",
+        "Lucky Hit Chance"
+      ]
+    },
+    "Soar Eagle": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Storm Skill Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Skill Ranks"
+      ]
+    },
+    "Vortex Centipede": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Poison Damage",
+        "Damage Over Time",
+        "Skill Ranks",
+        "Lucky Hit"
+      ]
+    },
+    "Withering Fist": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Poison Damage",
+        "Critical Strike Damage",
+        "Attack Speed",
+        "Skill Ranks"
+      ]
+    },
+    "Holy Light Auradin": {
+      "mythic_items": [
+        "Tyrael's Might",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Holy Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Skill Ranks",
+        "Maximum Life"
+      ]
+    },
+    "Smite Crusader": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Holy Damage",
+        "Critical Strike Damage",
+        "Strength",
+        "Cooldown Reduction"
+      ]
+    },
+    "Shield Throw": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength",
+        "Damage Reduction"
+      ]
+    },
+    "Divine Wrath": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Holy Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Strength"
+      ]
+    },
+    "Hallowed Strike": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Holy Damage",
+        "Critical Strike Damage",
+        "Strength",
+        "Attack Speed"
+      ]
+    },
+    "Conviction Aura": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Holy Damage",
+        "Damage Reduction",
+        "Strength",
+        "Maximum Life"
+      ]
+    },
+    "Avenging Light": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Holy Damage",
+        "Cooldown Reduction",
+        "Strength",
+        "Lucky Hit"
+      ]
+    },
+    "Repentance": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Holy Damage",
+        "Skill Ranks",
+        "Strength",
+        "Critical Strike Damage"
+      ]
+    },
+    "Eviscerate": {
+      "mythic_items": [
+        "Andariel's Visage"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Attack Speed",
+        "Shadow Damage",
+        "Cooldown Reduction"
+      ]
+    },
+    "Blazing Scream": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Fire Damage",
+        "Critical Strike Damage",
+        "Skill Ranks",
+        "Cooldown Reduction"
+      ]
+    },
+    "Apocalypse": {
+      "mythic_items": [
+        "Doombringer"
+      ],
+      "key_affixes": [
+        "Ultimate Damage",
+        "Cooldown Reduction",
+        "Critical Strike Damage",
+        "Maximum Life"
+      ]
+    },
+    "Lunatic": {
+      "mythic_items": [
+        "Crown of Lucion"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Skill Ranks",
+        "Cooldown Reduction"
+      ]
+    },
+    "Tyrant's Grasp": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Shadow Damage",
+        "Damage Over Time",
+        "Critical Strike Damage",
+        "Cooldown Reduction"
+      ]
+    },
+    "Soul Burn DoT": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Shadow Damage",
+        "Damage Over Time",
+        "Skill Damage",
+        "Maximum Life"
+      ]
+    },
+    "Hex Stack": {
+      "mythic_items": [],
+      "key_affixes": [
+        "Skill Ranks",
+        "Curse Damage",
+        "Cooldown Reduction",
+        "Maximum Life"
+      ]
     }
   }
 }
