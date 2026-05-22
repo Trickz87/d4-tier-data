@@ -605,7 +605,8 @@
           "affixes": [
             "Cooldown Reduction",
             "Skill Damage",
-            "Damage to Distant Enemies"
+            "Damage to Distant Enemies",
+            "Shadow Damage"
           ]
         }
       }
@@ -714,7 +715,9 @@
           "is_mythic": true,
           "affixes": [
             "Minion Damage",
-            "Lucky Hit"
+            "Lucky Hit",
+            "+4 to All Skills",
+            "Cooldown Reduction"
           ]
         },
         "chest": {
@@ -722,28 +725,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Temerity",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -751,35 +764,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Minion Damage"
+            "Minion Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Shadow Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Minion Damage"
+            "Minion Damage",
+            "Cooldown Reduction",
+            "Skill Damage",
+            "Shadow Damage"
           ]
         }
       }
@@ -916,7 +943,8 @@
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
-            "Movement Speed"
+            "Movement Speed",
+            "Damage Reduction from Crowd-Controlled"
           ]
         },
         "boots": {
@@ -925,7 +953,8 @@
           "affixes": [
             "Movement Speed",
             "Cooldown Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -954,7 +983,8 @@
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
@@ -963,7 +993,8 @@
           "affixes": [
             "Critical Strike Damage",
             "Vulnerable Damage",
-            "Bleeding Damage"
+            "Bleeding Damage",
+            "Critical Strike Chance"
           ]
         },
         "offhand": {
@@ -972,7 +1003,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Strength"
+            "Strength",
+            "Maximum Life"
           ]
         }
       }
@@ -1025,7 +1057,8 @@
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
-            "Damage to Unstoppable"
+            "Damage to Unstoppable",
+            "Damage Reduction from Crowd-Controlled"
           ]
         },
         "boots": {
@@ -1034,7 +1067,8 @@
           "affixes": [
             "Movement Speed",
             "Cooldown Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1063,7 +1097,8 @@
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Vulnerable Damage"
           ]
         },
         "ring2": {
@@ -1072,7 +1107,8 @@
           "affixes": [
             "Critical Strike Damage",
             "Vulnerable Damage",
-            "Bleeding Damage"
+            "Bleeding Damage",
+            "Critical Strike Chance"
           ]
         },
         "offhand": {
@@ -1081,7 +1117,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Strength"
+            "Strength",
+            "Maximum Life"
           ]
         }
       }
@@ -1135,7 +1172,8 @@
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
-            "Damage to Unstoppable"
+            "Damage to Unstoppable",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
@@ -1144,7 +1182,8 @@
           "affixes": [
             "Movement Speed",
             "Critical Strike Chance",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -1183,7 +1222,8 @@
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
@@ -1192,7 +1232,8 @@
           "affixes": [
             "Skill Ranks",
             "Conjuration Damage",
-            "Lucky Hit"
+            "Lucky Hit",
+            "Conjuration Skill Damage"
           ]
         }
       }
@@ -1213,7 +1254,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Minion Damage"
+            "Minion Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -1222,7 +1265,8 @@
           "affixes": [
             "Damage Reduction",
             "Skill Ranks",
-            "Maximum Life"
+            "Maximum Life",
+            "Intelligence"
           ]
         },
         "gloves": {
@@ -1230,14 +1274,18 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Lucky Hit"
+            "Lucky Hit",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -1245,7 +1293,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1254,7 +1304,8 @@
           "affixes": [
             "Damage Per Second",
             "Minion Damage",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -1262,7 +1313,9 @@
           "is_mythic": false,
           "affixes": [
             "Minion Damage",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "ring1": {
@@ -1270,7 +1323,9 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Minion Damage"
+            "Minion Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage"
           ]
         },
         "ring2": {
@@ -1278,7 +1333,9 @@
           "is_mythic": false,
           "affixes": [
             "Minion Damage",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage"
           ]
         },
         "offhand": {
@@ -1286,7 +1343,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Minion Damage"
+            "Minion Damage",
+            "Skill Ranks",
+            "Critical Strike Damage"
           ]
         }
       }
@@ -1307,7 +1366,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "chest": {
@@ -1315,14 +1376,19 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Skill Ranks",
+            "Intelligence"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
@@ -1330,14 +1396,19 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1345,7 +1416,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -1353,28 +1426,39 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "ring2": {
           "name": "Sacrilegious Soul Ring",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Black River",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Minion Damage"
           ]
         }
       }
@@ -1408,7 +1492,8 @@
           "affixes": [
             "Damage Reduction",
             "Maximum Life",
-            "Skill Ranks"
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -1427,7 +1512,8 @@
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
-            "Damage to Unstoppable"
+            "Damage to Unstoppable",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -1436,7 +1522,8 @@
           "affixes": [
             "Movement Speed",
             "Cooldown Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Critical Strike Chance"
           ]
         },
         "weapon": {
@@ -1445,7 +1532,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Dexterity"
           ]
         },
         "amulet": {
@@ -1454,7 +1542,8 @@
           "affixes": [
             "Skill Ranks",
             "Cooldown Reduction",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         },
         "ring1": {
@@ -1463,7 +1552,8 @@
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
@@ -1472,7 +1562,8 @@
           "affixes": [
             "Critical Strike Damage",
             "Vulnerable Damage",
-            "Poison Damage"
+            "Poison Damage",
+            "Critical Strike Chance"
           ]
         },
         "offhand": {
@@ -1481,7 +1572,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -1502,35 +1594,47 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Poison Damage"
+            "Poison Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -1538,35 +1642,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Poison Damage"
+            "Poison Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -1588,7 +1706,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Holy Damage"
+            "Holy Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -1596,21 +1716,29 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Holy Damage"
+            "Holy Damage",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
@@ -1618,7 +1746,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Holy Damage"
+            "Holy Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -1626,7 +1756,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -1634,21 +1766,29 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Holy Damage"
+            "Holy Damage",
+            "Cooldown Reduction",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
@@ -1656,7 +1796,9 @@
           "is_mythic": false,
           "affixes": [
             "Holy Damage",
-            "Damage Reduction"
+            "Damage Reduction",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -1677,7 +1819,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Holy Damage"
+            "Holy Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -1685,7 +1829,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Holy Damage"
+            "Holy Damage",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -1693,21 +1839,29 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
           "name": "Penitent Greaves",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1715,35 +1869,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Endurant Faith",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Holy Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ward of the White Dove",
           "is_mythic": false,
           "affixes": [
-            "Holy Damage"
+            "Holy Damage",
+            "Damage Reduction",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -1764,7 +1932,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Willpower"
           ]
         },
         "chest": {
@@ -1772,28 +1942,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Maximum Life",
+            "Willpower"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Willpower",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -1802,7 +1982,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Cold Damage"
+            "Cold Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -1810,14 +1991,19 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Willpower"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
@@ -1825,7 +2011,9 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Damage",
-            "Willpower"
+            "Willpower",
+            "Critical Strike Chance",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
@@ -1833,7 +2021,9 @@
           "is_mythic": false,
           "affixes": [
             "Minion Damage",
-            "Willpower"
+            "Willpower",
+            "Skill Ranks",
+            "Critical Strike Damage"
           ]
         }
       }
@@ -1867,7 +2057,8 @@
           "affixes": [
             "Damage Over Time",
             "Maximum Life",
-            "Damage Reduction"
+            "Damage Reduction",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -1876,7 +2067,8 @@
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Lucky Hit"
+            "Lucky Hit",
+            "Attack Speed"
           ]
         },
         "pants": {
@@ -1884,7 +2076,9 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Bleeding Damage"
+            "Bleeding Damage",
+            "Damage Reduction",
+            "Damage Reduction from Crowd-Controlled"
           ]
         },
         "boots": {
@@ -1892,7 +2086,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1901,7 +2097,8 @@
           "affixes": [
             "Damage Per Second",
             "Bleeding Damage",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -1910,7 +2107,8 @@
           "affixes": [
             "Skill Ranks",
             "Bleeding Damage",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
@@ -1918,7 +2116,9 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Maximum Life"
           ]
         },
         "ring2": {
@@ -1926,7 +2126,9 @@
           "is_mythic": false,
           "affixes": [
             "Bleeding Damage",
-            "Damage Over Time"
+            "Damage Over Time",
+            "Critical Strike Chance",
+            "Critical Strike Damage"
           ]
         },
         "offhand": {
@@ -1934,7 +2136,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Bleeding Damage"
+            "Bleeding Damage",
+            "Critical Strike Damage",
+            "Strength"
           ]
         }
       }
@@ -1956,7 +2160,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Strength"
           ]
         },
         "chest": {
@@ -1964,7 +2170,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
@@ -1972,7 +2180,9 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
@@ -1980,7 +2190,9 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Damage Reduction"
+            "Damage Reduction",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -1988,7 +2200,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -1996,7 +2210,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Overpower Damage"
           ]
         },
         "amulet": {
@@ -2004,7 +2220,9 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
@@ -2012,7 +2230,9 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Maximum Life"
           ]
         },
         "ring2": {
@@ -2020,7 +2240,9 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Damage",
-            "Strength"
+            "Strength",
+            "Critical Strike Chance",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
@@ -2028,7 +2250,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Strength"
+            "Strength",
+            "Critical Strike Damage",
+            "Maximum Life"
           ]
         }
       }
@@ -2050,7 +2274,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Strength"
           ]
         },
         "chest": {
@@ -2058,7 +2284,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
@@ -2066,14 +2294,19 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Lucky Hit"
+            "Lucky Hit",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -2081,7 +2314,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2089,7 +2324,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Overpower Damage"
           ]
         },
         "amulet": {
@@ -2097,28 +2334,39 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Ring of the Ravenous",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Ramaladni's Magnum Opus",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Strength",
+            "Maximum Life"
           ]
         }
       }
@@ -2139,7 +2387,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Strength"
           ]
         },
         "chest": {
@@ -2147,28 +2397,39 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Damage Reduction"
+            "Damage Reduction",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2176,35 +2437,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Ring of the Ravenous",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Ramaladni's Magnum Opus",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Strength",
+            "Maximum Life"
           ]
         }
       }
@@ -2269,7 +2544,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Werewolf Damage"
+            "Werewolf Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -2277,7 +2554,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Skill Ranks",
+            "Willpower"
           ]
         },
         "gloves": {
@@ -2285,7 +2564,9 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
@@ -2293,7 +2574,9 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Movement Speed"
+            "Movement Speed",
+            "Damage Reduction",
+            "Willpower"
           ]
         },
         "boots": {
@@ -2301,7 +2584,8 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -2310,14 +2594,18 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Werewolf Damage"
+            "Werewolf Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Willpower",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
@@ -2325,7 +2613,9 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Resource Generation"
           ]
         },
         "ring2": {
@@ -2333,7 +2623,9 @@
           "is_mythic": false,
           "affixes": [
             "Werewolf Damage",
-            "Willpower"
+            "Willpower",
+            "Critical Strike Chance",
+            "Critical Strike Damage"
           ]
         },
         "offhand": {
@@ -2341,7 +2633,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Werewolf Damage"
+            "Werewolf Damage",
+            "Skill Ranks",
+            "Critical Strike Damage"
           ]
         }
       }
@@ -2363,14 +2657,19 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Mantle of the Grey",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "Willpower"
           ]
         },
         "gloves": {
@@ -2378,21 +2677,28 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Greaves of the Empty Tomb",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Willpower",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -2401,7 +2707,8 @@
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -2409,28 +2716,39 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Cooldown Reduction",
+            "Willpower"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Insatiable Fury",
           "is_mythic": false,
           "affixes": [
-            "Werewolf Damage"
+            "Werewolf Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Hunter's Zenith",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Companion Damage"
           ]
         }
       }
@@ -2453,7 +2771,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Willpower"
           ]
         },
         "chest": {
@@ -2461,28 +2781,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Werebear Damage"
+            "Werebear Damage",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Greaves of the Empty Tomb",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Willpower",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -2491,35 +2821,48 @@
           "affixes": [
             "Damage Per Second",
             "Overpower Damage",
-            "Werebear Damage"
+            "Werebear Damage",
+            "Critical Strike Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Willpower",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Airidah's Inexorable Will",
           "is_mythic": false,
           "affixes": [
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Hunter's Zenith",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Companion Damage"
           ]
         }
       }
@@ -2541,7 +2884,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -2549,28 +2894,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Storm Skill Damage"
+            "Storm Skill Damage",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Greaves of the Empty Tomb",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Willpower",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -2579,7 +2934,8 @@
           "affixes": [
             "Skill Ranks",
             "Lightning Damage",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Damage Per Second"
           ]
         },
         "amulet": {
@@ -2587,28 +2943,39 @@
           "is_mythic": false,
           "affixes": [
             "Storm Skill Damage",
-            "Willpower"
+            "Willpower",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Airidah's Inexorable Will",
           "is_mythic": false,
           "affixes": [
-            "Storm Skill Damage"
+            "Storm Skill Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Mjölnic Ryng",
           "is_mythic": false,
           "affixes": [
-            "Lightning Damage"
+            "Lightning Damage",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Companion Damage"
           ]
         }
       }
@@ -2682,7 +3049,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Minion Damage"
+            "Minion Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -2690,28 +3059,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Minion Damage"
+            "Minion Damage",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2719,35 +3098,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Minion Damage"
+            "Minion Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Mendeln Splintering Staff",
           "is_mythic": false,
           "affixes": [
-            "Minion Damage"
+            "Minion Damage",
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Sacrilegious Soul Ring",
           "is_mythic": false,
           "affixes": [
-            "Minion Damage"
+            "Minion Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Black River",
           "is_mythic": false,
           "affixes": [
-            "Minion Damage"
+            "Minion Damage",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -2769,7 +3162,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Bone Skill Damage"
+            "Bone Skill Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -2777,7 +3172,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Bone Skill Damage"
+            "Bone Skill Damage",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "gloves": {
@@ -2785,21 +3182,28 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2808,14 +3212,18 @@
           "affixes": [
             "Damage Per Second",
             "Bone Skill Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Intelligence",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
@@ -2823,21 +3231,29 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Sacrilegious Soul Ring",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Black River",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Minion Damage"
           ]
         }
       }
@@ -2859,7 +3275,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Maximum Life"
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "chest": {
@@ -2867,14 +3285,19 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Skill Ranks",
+            "Intelligence"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
@@ -2882,14 +3305,19 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2897,7 +3325,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -2905,28 +3335,39 @@
           "is_mythic": false,
           "affixes": [
             "Maximum Life",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Intelligence"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Sacrilegious Soul Ring",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Black River",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Minion Damage"
           ]
         }
       }
@@ -2947,7 +3388,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Shadow Damage"
+            "Shadow Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -2955,28 +3398,38 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Shadow Damage"
+            "Shadow Damage",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction from Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -2984,35 +3437,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Shadow Damage"
+            "Shadow Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Intelligence",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Sacrilegious Soul Ring",
           "is_mythic": false,
           "affixes": [
-            "Shadow Damage"
+            "Shadow Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Black River",
           "is_mythic": false,
           "affixes": [
-            "Damage Over Time"
+            "Damage Over Time",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Minion Damage"
           ]
         }
       }
@@ -3077,7 +3544,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -3085,7 +3554,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -3093,21 +3564,28 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3115,14 +3593,19 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Dexterity"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
@@ -3130,14 +3613,19 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Chance",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "offhand": {
@@ -3145,7 +3633,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -3166,35 +3656,48 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Chance",
-            "Dexterity"
+            "Dexterity",
+            "+4 to All Skills",
+            "Cooldown Reduction"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Dexterity"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3202,35 +3705,49 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Damage Per Second",
+            "Dexterity"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "offhand": {
           "name": "Skyhunter",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Vulnerable Damage",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -3252,28 +3769,38 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Dexterity"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Dexterity"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -3281,7 +3808,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -3289,35 +3818,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Dexterity"
           ]
         },
         "amulet": {
           "name": "Beastfall Boots",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Resource Generation"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Vulnerable Damage",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -3338,70 +3881,98 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Dexterity"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Dexterity"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
           "name": "Skyhunter",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Dexterity"
           ]
         },
         "amulet": {
           "name": "Beastfall Boots",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Vulnerable Damage",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -3423,14 +3994,19 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Dexterity"
           ]
         },
         "gloves": {
@@ -3438,56 +4014,78 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
           "name": "Skyhunter",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Dexterity"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Lucky Hit"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Vulnerable Damage",
+            "Critical Strike Damage",
+            "Attack Speed"
           ]
         }
       }
@@ -3548,7 +4146,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cold Damage"
+            "Cold Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
@@ -3556,21 +4156,29 @@
           "is_mythic": false,
           "affixes": [
             "Damage Reduction",
-            "Intelligence"
+            "Intelligence",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Lucky Hit Chance",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
@@ -3578,7 +4186,9 @@
           "is_mythic": false,
           "affixes": [
             "Movement Speed",
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3586,7 +4196,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Cold Damage"
+            "Cold Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -3594,7 +4206,9 @@
           "is_mythic": true,
           "affixes": [
             "Skill Ranks",
-            "Elemental Damage"
+            "Elemental Damage",
+            "Cooldown Reduction",
+            "Damage Reduction"
           ]
         },
         "ring1": {
@@ -3602,21 +4216,29 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Cold Damage"
+            "Cold Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Conjuration Skill Damage",
+            "Cooldown Reduction",
+            "Lucky Hit Chance"
           ]
         }
       }
@@ -3637,35 +4259,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Conjuration Skill Damage"
+            "Conjuration Skill Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Raiment of the Infinite",
           "is_mythic": false,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Intelligence",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Lucky Hit Chance",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Esu's Heirloom",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3673,35 +4309,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Fire Damage"
+            "Fire Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Elemental Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Elemental Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Fire Damage"
+            "Fire Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Conjuration Skill Damage"
+            "Conjuration Skill Damage",
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Lucky Hit Chance"
           ]
         }
       }
@@ -3722,14 +4372,19 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Raiment of the Infinite",
           "is_mythic": false,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Intelligence",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -3737,21 +4392,29 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Lucky Hit"
+            "Lucky Hit",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Esu's Heirloom",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3759,35 +4422,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Elemental Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Elemental Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Lightning Damage"
+            "Lightning Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Lucky Hit"
+            "Lucky Hit",
+            "Conjuration Skill Damage",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -3808,35 +4485,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cold Damage"
+            "Cold Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Raiment of the Infinite",
           "is_mythic": false,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Intelligence",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Lucky Hit Chance",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Esu's Heirloom",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3844,35 +4535,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Cold Damage"
+            "Cold Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Elemental Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Elemental Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Cold Damage"
+            "Cold Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Conjuration Skill Damage"
+            "Conjuration Skill Damage",
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Lucky Hit Chance"
           ]
         }
       }
@@ -3894,35 +4599,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Raiment of the Infinite",
           "is_mythic": false,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Intelligence",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Lucky Hit Chance",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Esu's Heirloom",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -3930,35 +4649,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Lightning Damage"
+            "Lightning Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Elemental Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Elemental Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Lightning Damage"
+            "Lightning Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Conjuration Skill Damage"
+            "Conjuration Skill Damage",
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Lucky Hit Chance"
           ]
         }
       }
@@ -3979,35 +4712,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Fire Damage"
+            "Fire Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Raiment of the Infinite",
           "is_mythic": false,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Intelligence",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Lucky Hit Chance",
+            "Attack Speed"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Damage Reduction from Distant",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Esu's Heirloom",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Critical Strike Chance",
+            "Maximum Life",
+            "Cooldown Reduction"
           ]
         },
         "weapon": {
@@ -4015,35 +4762,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Fire Damage"
+            "Fire Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Elemental Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Tal Rasha's Iridescent Loop",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Elemental Damage"
           ]
         },
         "ring2": {
           "name": "Starfall Coronet",
           "is_mythic": false,
           "affixes": [
-            "Fire Damage"
+            "Fire Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ahavarion, Spear of Lycander",
           "is_mythic": true,
           "affixes": [
-            "Lucky Hit"
+            "Lucky Hit",
+            "Conjuration Skill Damage",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -4094,14 +4855,19 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Storm Skill Damage"
+            "Storm Skill Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -4109,21 +4875,27 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -4131,35 +4903,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Storm Damage"
+            "Storm Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -4180,35 +4966,47 @@
           "is_mythic": true,
           "affixes": [
             "Poison Damage",
-            "Lucky Hit"
+            "Lucky Hit",
+            "+4 to All Skills",
+            "Cooldown Reduction"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -4216,35 +5014,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Poison Damage"
+            "Poison Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Poison Damage"
+            "Poison Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -4265,35 +5077,47 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Poison Damage"
+            "Poison Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -4301,35 +5125,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Poison Damage"
+            "Poison Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -4350,35 +5188,47 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
@@ -4386,35 +5236,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Overpower Damage"
+            "Overpower Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -4434,14 +5298,20 @@
           "name": "Harlequin Crest",
           "is_mythic": true,
           "affixes": [
-            "+4 to All Skills"
+            "+4 to All Skills",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Skill Ranks"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -4449,56 +5319,77 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "weapon": {
           "name": "Sepazontec",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Skill Ranks"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Critical Strike Damage",
+            "Damage Reduction"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Maximum Life"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Skill Ranks",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         }
       }
@@ -4557,7 +5448,9 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Strength"
           ]
         },
         "chest": {
@@ -4565,7 +5458,9 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Holy Damage"
+            "Holy Damage",
+            "Maximum Life",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -4573,21 +5468,29 @@
           "is_mythic": false,
           "affixes": [
             "Holy Damage",
-            "Skill Ranks"
+            "Skill Ranks",
+            "Critical Strike Chance",
+            "Critical Strike Damage"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
           "name": "Penitent Greaves",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -4595,7 +5498,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
@@ -4603,28 +5508,39 @@
           "is_mythic": false,
           "affixes": [
             "Skill Ranks",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Holy Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ward of the White Dove",
           "is_mythic": false,
           "affixes": [
-            "Holy Damage"
+            "Holy Damage",
+            "Damage Reduction",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -4645,35 +5561,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Holy Damage"
+            "Holy Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Tyrael's Might",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
           "name": "Griswold's Opus",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
           "name": "Penitent Greaves",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -4681,35 +5611,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Endurant Faith",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Holy Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ward of the White Dove",
           "is_mythic": false,
           "affixes": [
-            "Holy Damage"
+            "Holy Damage",
+            "Damage Reduction",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -4729,7 +5673,10 @@
           "name": "Harlequin Crest",
           "is_mythic": true,
           "affixes": [
-            "+4 to All Skills"
+            "+4 to All Skills",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Strength"
           ]
         },
         "chest": {
@@ -4737,56 +5684,79 @@
           "is_mythic": true,
           "affixes": [
             "Damage Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
           "name": "Penitent Greaves",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
           "name": "Sunbrand",
           "is_mythic": false,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Holy Damage"
           ]
         },
         "amulet": {
           "name": "Endurant Faith",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Holy Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
@@ -4794,7 +5764,9 @@
           "is_mythic": false,
           "affixes": [
             "Damage Reduction",
-            "Holy Damage"
+            "Holy Damage",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -4815,35 +5787,49 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Strength"
           ]
         },
         "chest": {
           "name": "Tyrael's Might",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "All Damage",
+            "Strength"
           ]
         },
         "gloves": {
           "name": "Griswold's Opus",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Tibault's Will",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed",
+            "Damage Reduction from Distant"
           ]
         },
         "boots": {
           "name": "Penitent Greaves",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -4851,35 +5837,49 @@
           "is_mythic": false,
           "affixes": [
             "Damage Per Second",
-            "Holy Damage"
+            "Holy Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Endurant Faith",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Holy Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Seal of the Second Trumpet",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Ward of the White Dove",
           "is_mythic": false,
           "affixes": [
-            "Holy Damage"
+            "Holy Damage",
+            "Damage Reduction",
+            "Skill Ranks",
+            "Cooldown Reduction"
           ]
         }
       }
@@ -4936,14 +5936,20 @@
           "name": "Harlequin Crest",
           "is_mythic": true,
           "affixes": [
-            "+4 to All Skills"
+            "+4 to All Skills",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Intelligence"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
@@ -4951,21 +5957,28 @@
           "is_mythic": false,
           "affixes": [
             "Critical Strike Chance",
-            "Attack Speed"
+            "Attack Speed",
+            "Critical Strike Damage",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Temerity",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -4973,35 +5986,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Shadow Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Shadow Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Skill Damage",
+            "Shadow Damage",
+            "Damage to Distant Enemies"
           ]
         }
       }
@@ -5022,35 +6049,48 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Fire Damage"
+            "Fire Damage",
+            "Cooldown Reduction",
+            "Maximum Life"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Temerity",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -5058,35 +6098,49 @@
           "is_mythic": true,
           "affixes": [
             "Skill Ranks",
-            "Fire Damage"
+            "Fire Damage",
+            "Damage Per Second",
+            "Critical Strike Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Shadow Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Fire Damage"
+            "Fire Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Skill Damage",
+            "Shadow Damage",
+            "Damage to Distant Enemies"
           ]
         }
       }
@@ -5107,35 +6161,48 @@
           "is_mythic": true,
           "affixes": [
             "+4 to All Skills",
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Intelligence"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Temerity",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
@@ -5143,35 +6210,49 @@
           "is_mythic": true,
           "affixes": [
             "Damage Per Second",
-            "Ultimate Damage"
+            "Ultimate Damage",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Shadow Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Vulnerable Damage"
           ]
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Ultimate Damage"
+            "Ultimate Damage",
+            "Cooldown Reduction",
+            "Skill Damage",
+            "Shadow Damage"
           ]
         }
       }
@@ -5192,70 +6273,98 @@
           "is_mythic": true,
           "affixes": [
             "Critical Strike Damage",
-            "Skill Ranks"
+            "Skill Ranks",
+            "+4 to All Skills",
+            "Cooldown Reduction"
           ]
         },
         "chest": {
           "name": "Shroud of False Death",
           "is_mythic": true,
           "affixes": [
-            "Damage Reduction"
+            "Damage Reduction",
+            "Maximum Life",
+            "Skill Ranks",
+            "All Damage"
           ]
         },
         "gloves": {
           "name": "Fists of Fate",
           "is_mythic": false,
           "affixes": [
-            "Critical Strike Chance"
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Attack Speed",
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
           "name": "Temerity",
           "is_mythic": false,
           "affixes": [
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction",
+            "Movement Speed"
           ]
         },
         "boots": {
           "name": "Flickerstep",
           "is_mythic": false,
           "affixes": [
-            "Movement Speed"
+            "Movement Speed",
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
           "name": "Doombringer",
           "is_mythic": true,
           "affixes": [
-            "Damage Per Second"
+            "Damage Per Second",
+            "Critical Strike Damage",
+            "Vulnerable Damage",
+            "Shadow Damage"
           ]
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Skill Ranks"
+            "Skill Ranks",
+            "Cooldown Reduction",
+            "Shadow Damage",
+            "Critical Strike Damage"
           ]
         },
         "ring1": {
           "name": "Ring of Starless Skies",
           "is_mythic": true,
           "affixes": [
-            "Critical Strike Damage"
+            "Critical Strike Damage",
+            "Critical Strike Chance",
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
           "is_mythic": false,
           "affixes": [
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Critical Strike Chance",
+            "Critical Strike Damage",
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
           "is_mythic": false,
           "affixes": [
-            "Cooldown Reduction"
+            "Cooldown Reduction",
+            "Skill Damage",
+            "Shadow Damage",
+            "Damage to Distant Enemies"
           ]
         }
       }
