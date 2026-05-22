@@ -1,6 +1,6 @@
 {
   "season": "13 — Lord of Hatred",
-  "last_updated": "2026-05-22",
+  "last_updated": "2026-05-23",
   "source_note": "Compiled from public guide-site rankings: Maxroll, Mobalytics, Icy Veins, Wowhead, D4Builds, Game8. Manual research only — no scraping. Update this file when balance patches land.",
   "classes": {
     "barbarian": [
@@ -356,7 +356,9 @@
       "gear_by_slot": {
         "helm": {
           "name": "Harlequin Crest",
+          "kind": "Mythic Unique",
           "is_mythic": true,
+          "description": "Gain 20% Damage Reduction. In addition, gain +4 Ranks to all Skills.",
           "affixes": [
             "+4 to All Skills",
             "Maximum Life",
@@ -366,7 +368,9 @@
         },
         "chest": {
           "name": "Tyrael's Might",
+          "kind": "Mythic Unique",
           "is_mythic": true,
+          "description": "While at full Life, your Skills unleash a divine barrage dealing 6,830 damage.",
           "affixes": [
             "Damage Reduction",
             "Maximum Life",
@@ -375,37 +379,46 @@
           ]
         },
         "gloves": {
-          "name": "Dawnfire",
+          "name": "Aspect of Fathomless Dark",
+          "kind": "Legendary Aspect",
           "is_mythic": false,
+          "description": "Your Dread Claws hits 3 additional times against enemies in deep shadow, dealing 12–18% increased Shadow damage per stack.",
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
             "Attack Speed",
-            "Lucky Hit"
+            "Lucky Hit Chance"
           ]
         },
         "pants": {
-          "name": "Tibault's Will",
+          "name": "Aspect of Deeper Shadows",
+          "kind": "Legendary Aspect",
           "is_mythic": false,
+          "description": "Damage Over Time effects deal 25–40% increased damage and have their duration extended by 3 seconds.",
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
-            "Damage to Unstoppable",
-            "Resource Generation"
+            "Damage to Crowd-Controlled",
+            "Movement Speed"
           ]
         },
         "boots": {
-          "name": "Flickerstep",
+          "name": "Aspect of Malevolence",
+          "kind": "Legendary Aspect",
           "is_mythic": false,
+          "description": "While there are 5 or more enemies near you, you gain 15–25% increased Critical Strike Damage and 10% Movement Speed.",
           "affixes": [
             "Movement Speed",
             "Cooldown Reduction",
-            "Maximum Life"
+            "Maximum Life",
+            "Damage Reduction"
           ]
         },
         "weapon": {
-          "name": "Doombringer",
-          "is_mythic": true,
+          "name": "Litany of Sable",
+          "kind": "Unique",
+          "is_mythic": false,
+          "description": "Lucky Hit: Up to a 30% chance to summon a Dreadnaught minion that explodes for 8,500 Shadow damage.",
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
@@ -414,40 +427,51 @@
           ]
         },
         "amulet": {
-          "name": "Mother's Embrace",
+          "name": "Demonic Aspect",
+          "kind": "Legendary Aspect",
           "is_mythic": false,
+          "description": "Each hit with Demonology Skills increases the damage you deal with Demonology Skills by 2.3–3.3% for 10 seconds, up to 45–65%.",
           "affixes": [
-            "Skill Ranks",
-            "Resource Cost Reduction",
-            "Cooldown Reduction",
-            "Damage Reduction"
+            "Willpower",
+            "Maximum Life",
+            "Critical Strike Chance",
+            "Ranks to Abyss Skills"
           ]
         },
         "ring1": {
-          "name": "Ring of Starless Skies",
-          "is_mythic": true,
+          "name": "Insidious Aspect",
+          "kind": "Legendary Aspect",
+          "is_mythic": false,
+          "description": "Your Curse Skills apply 2 additional curses to enemies, and curse damage is increased by 35–55% per active curse.",
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
-            "Vulnerable Damage"
+            "Vulnerable Damage",
+            "Resource Generation"
           ]
         },
         "ring2": {
-          "name": "Tassets of the Dawning Sky",
+          "name": "Ring of Starless Skies",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "Spending your Primary Resource reduces the Resource cost of your Skills and increases your damage by 7–14% for 4 seconds, up to 30%.",
           "affixes": [
+            "Critical Strike Chance",
             "Critical Strike Damage",
             "Vulnerable Damage",
-            "Shadow Damage"
+            "Cooldown Reduction"
           ]
         },
         "offhand": {
-          "name": "Banished Lord's Talisman",
+          "name": "Aspect of Calamity",
+          "kind": "Legendary Aspect",
           "is_mythic": false,
+          "description": "Casting your Ultimate Skill triggers a 4-second Calamity, dealing 18% of your Maximum Life per second to enemies within 8 yards.",
           "affixes": [
             "Cooldown Reduction",
             "Skill Damage",
-            "Damage to Crowd-Controlled"
+            "Ultimate Damage",
+            "Damage to Distant Enemies"
           ]
         }
       }
@@ -467,7 +491,9 @@
       "gear_by_slot": {
         "helm": {
           "name": "Harlequin Crest",
+          "kind": "Mythic Unique",
           "is_mythic": true,
+          "description": "Gain 20% Damage Reduction. In addition, gain +4 Ranks to all Skills.",
           "affixes": [
             "+4 to All Skills",
             "Maximum Life",
@@ -477,7 +503,9 @@
         },
         "chest": {
           "name": "Shroud of False Death",
+          "kind": "Mythic Unique",
           "is_mythic": true,
+          "description": "When you would be dealt fatal damage, instead you Heal to full Life, gain a Barrier for 25% of your Maximum Life and become Unstoppable for 4 seconds. This effect can only occur once every 90 seconds.",
           "affixes": [
             "Damage Reduction",
             "Maximum Life",
@@ -487,7 +515,9 @@
         },
         "gloves": {
           "name": "Fists of Fate",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "Your attacks randomly deal 10–250% of their normal damage.",
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
@@ -497,7 +527,9 @@
         },
         "pants": {
           "name": "Temerity",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "Effects that Heal you beyond 100% Life grant you a Barrier up to 80% of your Maximum Life that lasts for 12 seconds.",
           "affixes": [
             "Maximum Life",
             "Damage Reduction",
@@ -507,7 +539,9 @@
         },
         "boots": {
           "name": "Flickerstep",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "Each enemy you Evade through reduces your active Ultimate Cooldown by 1.5 seconds, up to 12 seconds.",
           "affixes": [
             "Movement Speed",
             "Cooldown Reduction",
@@ -517,7 +551,9 @@
         },
         "weapon": {
           "name": "Doombringer",
-          "is_mythic": true,
+          "kind": "Unique",
+          "is_mythic": false,
+          "description": "Lucky Hit: Up to a 60% chance to deal 6,800 Shadow damage to surrounding enemies and reduce their damage dealt by 20% for 5 seconds.",
           "affixes": [
             "Damage Per Second",
             "Critical Strike Damage",
@@ -527,7 +563,9 @@
         },
         "amulet": {
           "name": "Banished Lord's Talisman",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "After you spend 100 of your Primary Resource, your next Core Skill is guaranteed to Overpower. Your Critical Strikes that Overpower deal 60% increased damage.",
           "affixes": [
             "Skill Ranks",
             "Cooldown Reduction",
@@ -537,7 +575,9 @@
         },
         "ring1": {
           "name": "Ring of Starless Skies",
-          "is_mythic": true,
+          "kind": "Unique",
+          "is_mythic": false,
+          "description": "Spending your Primary Resource reduces the Resource cost of your Skills and increases your damage by 7–14% for 4 seconds, up to 30%.",
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
@@ -547,7 +587,9 @@
         },
         "ring2": {
           "name": "Wreath of Auric Laurel",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "Lucky Hit: Holy Bolt has up to a 25% chance to trigger Purify, causing Holy Bolts to deal increased damage and pierce.",
           "affixes": [
             "Critical Strike Chance",
             "Critical Strike Damage",
@@ -557,7 +599,9 @@
         },
         "offhand": {
           "name": "Banished Lord's Talisman",
+          "kind": "Unique",
           "is_mythic": false,
+          "description": "After you spend 100 of your Primary Resource, your next Core Skill is guaranteed to Overpower. Your Critical Strikes that Overpower deal 60% increased damage.",
           "affixes": [
             "Cooldown Reduction",
             "Skill Damage",
