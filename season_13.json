@@ -1,0 +1,103 @@
+{
+  "season": "13 — Lord of Hatred",
+  "last_updated": "2026-05-17",
+  "source_note": "Compiled from public guide-site rankings: Maxroll, Mobalytics, Icy Veins, Wowhead, D4Builds, Game8. Manual research only — no scraping. Update this file when balance patches land.",
+  "classes": {
+    "barbarian": [
+      ["S+", "Whirlwind"],
+      ["S+", "Hammer of the Ancients"],
+      ["S",  "Rend"],
+      ["A",  "Bash"],
+      ["A",  "Charge"],
+      ["A",  "Upheaval"],
+      ["B",  "Leap Quake"],
+      ["B",  "Double Swing"],
+      ["C",  "Frenzy"],
+      ["D",  "Kick"]
+    ],
+    "druid": [
+      ["S+", "Companion Druid"],
+      ["S",  "Lacerate Werewolf"],
+      ["A",  "Stormclaw Werewolf"],
+      ["A",  "Pulverize Werebear"],
+      ["A",  "Lightning Storm"],
+      ["B",  "Tornado"],
+      ["B",  "Cataclysm"],
+      ["B",  "Boulder"],
+      ["C",  "Hurricane"],
+      ["D",  "Trampleslide"]
+    ],
+    "necromancer": [
+      ["S+", "Army of the Dead"],
+      ["S+", "Blood Wave"],
+      ["S",  "Minion Mendeln"],
+      ["S",  "Bone Spear"],
+      ["A",  "Blood Surge"],
+      ["A",  "Shadow Blight"],
+      ["A",  "Corpse Tendrils"],
+      ["B",  "Bone Spirit"],
+      ["C",  "Sever Shadow"],
+      ["D",  "Decompose"]
+    ],
+    "rogue": [
+      ["S+", "Andariel Rapid Fire"],
+      ["S",  "Dance of Knives"],
+      ["S",  "Heartseeker"],
+      ["A",  "Twisting Blades"],
+      ["A",  "Death Trap"],
+      ["A",  "Barrage"],
+      ["B",  "Penetrating Shot"],
+      ["B",  "Flurry"],
+      ["C",  "Caltrops Trapper"],
+      ["D",  "Forceful Arrow"]
+    ],
+    "sorcerer": [
+      ["S+", "Ball Lightning"],
+      ["S",  "Blizzard"],
+      ["S",  "Hydra"],
+      ["S",  "Charged Bolts"],
+      ["A",  "Frozen Orb"],
+      ["A",  "Lightning Spear"],
+      ["A",  "Fireball"],
+      ["B",  "Meteor"],
+      ["C",  "Arc Lash"],
+      ["D",  "Ice Shards"]
+    ],
+    "spiritborn": [
+      ["S",  "Eagle Evade"],
+      ["S",  "Quill Volley Poison"],
+      ["A",  "Stinger Centipede"],
+      ["A",  "Touch of Death"],
+      ["A",  "Crushing Hand"],
+      ["A",  "Razor Wings"],
+      ["B",  "Thrash Jaguar"],
+      ["B",  "Soar Eagle"],
+      ["C",  "Vortex Centipede"],
+      ["D",  "Withering Fist"]
+    ],
+    "paladin": [
+      ["S+", "Wing Strike Arbiter"],
+      ["S+", "Hammerdin"],
+      ["S+", "Holy Light Auradin"],
+      ["A",  "Smite Crusader"],
+      ["A",  "Shield Throw"],
+      ["A",  "Divine Wrath"],
+      ["B",  "Hallowed Strike"],
+      ["B",  "Conviction Aura"],
+      ["C",  "Avenging Light"],
+      ["D",  "Repentance"]
+    ],
+    "warlock": [
+      ["S+", "Dread Claws"],
+      ["S+", "Hell Fracture"],
+      ["S",  "Minion Summoner"],
+      ["S",  "Eviscerate"],
+      ["A",  "Blazing Scream"],
+      ["A",  "Apocalypse"],
+      ["A",  "Lunatic"],
+      ["B",  "Tyrant's Grasp"],
+      ["C",  "Soul Burn DoT"],
+      ["D",  "Hex Stack"]
+    ]
+  }
+}
