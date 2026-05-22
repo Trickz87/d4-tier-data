@@ -339,5 +339,186 @@
         "Hex Stack"
       ]
     ]
+  },
+  "build_details": {
+    "Dread Claws": {
+      "mythic_items": [
+        "Harlequin Crest",
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Shadow Damage",
+        "Cooldown Reduction",
+        "Maximum Life"
+      ]
+    },
+    "Hell Fracture": {
+      "mythic_items": [
+        "Shroud of False Death",
+        "Doombringer"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Skill Damage",
+        "Cooldown Reduction"
+      ]
+    },
+    "Warlock Hatred Forge": {
+      "mythic_items": [
+        "Doombringer",
+        "Shroud of False Death"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "All Damage",
+        "Shadow Damage"
+      ]
+    },
+    "Minion Summoner": {
+      "mythic_items": [
+        "Andariel's Visage"
+      ],
+      "key_affixes": [
+        "Minion Damage",
+        "Maximum Life",
+        "Damage Reduction",
+        "Cooldown Reduction"
+      ]
+    },
+    "Warlock Damnation": {
+      "mythic_items": [
+        "Ahavarion, Spear of Lycander"
+      ],
+      "key_affixes": [
+        "Skill Ranks",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "All Damage"
+      ]
+    },
+    "Whirlwind": {
+      "mythic_items": [
+        "Harlequin Crest",
+        "The Grandfather"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Maximum Life",
+        "Damage Reduction"
+      ]
+    },
+    "Hammer of the Ancients": {
+      "mythic_items": [
+        "The Grandfather",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Overpower Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Strength"
+      ]
+    },
+    "Ball Lightning": {
+      "mythic_items": [
+        "Tal Rasha's Iridescent Loop",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Lightning Damage",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Intelligence",
+        "Cooldown Reduction"
+      ]
+    },
+    "Army of the Dead": {
+      "mythic_items": [
+        "Ring of Starless Skies"
+      ],
+      "key_affixes": [
+        "Minion Damage",
+        "Critical Strike Damage",
+        "Cooldown Reduction",
+        "Maximum Life"
+      ]
+    },
+    "Blood Wave": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Overpower Damage",
+        "Critical Strike Damage",
+        "Maximum Life",
+        "Damage Reduction"
+      ]
+    },
+    "Andariel Rapid Fire": {
+      "mythic_items": [
+        "Andariel's Visage",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Chance",
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Dexterity",
+        "Attack Speed"
+      ]
+    },
+    "Quill Volley Poison": {
+      "mythic_items": [
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Vulnerable Damage",
+        "Poison Damage",
+        "Skill Damage"
+      ]
+    },
+    "Wing Strike Arbiter": {
+      "mythic_items": [
+        "Tyrael's Might",
+        "Harlequin Crest"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Holy Damage",
+        "Cooldown Reduction",
+        "Maximum Life"
+      ]
+    },
+    "Hammerdin": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Critical Strike Damage",
+        "Holy Damage",
+        "Skill Ranks",
+        "Cooldown Reduction"
+      ]
+    },
+    "Companion Druid": {
+      "mythic_items": [
+        "Tyrael's Might"
+      ],
+      "key_affixes": [
+        "Minion Damage",
+        "Critical Strike Damage",
+        "Willpower",
+        "Cooldown Reduction"
+      ]
+    }
   }
 }
